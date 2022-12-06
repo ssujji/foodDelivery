@@ -14,6 +14,7 @@ public class MeansOfDelivery {
         @Id
         //@GeneratedValue(strategy=GenerationType.AUTO)
         private Long id;
+        private String deliveryType;
 
 
 }

@@ -24,7 +24,7 @@
                                 Address :  {{item.address }}
                             </v-list-item-subtitle>
                             <v-list-item-subtitle>
-                                CustormerId :  {{item.custormerId }}
+                                CustomerId :  {{item.customerId }}
                             </v-list-item-subtitle>
                             <v-list-item-subtitle>
                                 StoreId :  {{item.storeId }}

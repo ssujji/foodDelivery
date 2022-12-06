@@ -23,7 +23,7 @@
                             [ FoodId :  {{data.foodId }} ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             [ Options :  {{data.options }} ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             [ Address :  {{data.address }} ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            [ CustormerId :  {{data.custormerId }} ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            [ CustomerId :  {{data.customerId }} ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             [ StoreId :  {{data.storeId }} ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             [ DeliveryType :  {{data.deliveryType }} ] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         </v-list-item-subtitle>
@@ -110,7 +110,7 @@
                 'foodId': '',
                 'options': [],
                 'address': '',
-                'custormerId': '',
+                'customerId': '',
                 'storeId': '',
                 'deliveryType': '',
             }

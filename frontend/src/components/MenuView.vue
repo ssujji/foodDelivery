@@ -22,6 +22,8 @@
         data: () => ({
             headers: [
                 { text: "id", value: "id" },
+                { text: "foodId", value: "foodId" },
+                { text: "storeId", value: "storeId" },
             ],
             menu : [],
         }),

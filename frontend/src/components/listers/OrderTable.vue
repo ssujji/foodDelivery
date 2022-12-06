@@ -70,7 +70,7 @@
                     { text: "foodId", value: "foodId" },
                     { text: "options", value: "options" },
                     { text: "address", value: "address" },
-                    { text: "custormerId", value: "custormerId" },
+                    { text: "customerId", value: "customerId" },
                     { text: "storeId", value: "storeId" },
                     { text: "deliveryType", value: "deliveryType" },
                 ],
@@ -93,7 +93,7 @@
                 'foodId': '',
                 'options': [],
                 'address': '',
-                'custormerId': '',
+                'customerId': '',
                 'storeId': '',
                 'deliveryType': '',
             }

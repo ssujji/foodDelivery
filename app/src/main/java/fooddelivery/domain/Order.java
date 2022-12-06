@@ -48,7 +48,7 @@ public class Order  {
     
     
     
-    private String custormerId;
+    private String customerId;
     
     
     

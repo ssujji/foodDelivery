@@ -13,7 +13,7 @@
                 <String label="Address" v-model="item.address" :editMode="editMode" @change="change" />
             </div>
             <div>
-                <String label="CustormerId" v-model="item.custormerId" :editMode="editMode" @change="change" />
+                <String label="CustomerId" v-model="item.customerId" :editMode="editMode" @change="change" />
             </div>
             <div>
                 <String label="StoreId" v-model="item.storeId" :editMode="editMode" @change="change" />
